@@ -144,6 +144,9 @@ Some content
 4. Select the branch (e.g., `main`) as the source for GitHub Pages.
 5. Click **"Save."**
 
+Once you have completed these steps, your website will be accessible at the following URL format:
+`https://yourusername.github.io/your-repo-name/`
+
 > [!IMPORTANT]
 > Ensure to replace `yourusername` with your GitHub username and confirm your default branch name (it might be `master`).
 
