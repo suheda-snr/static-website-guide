@@ -1,10 +1,19 @@
 # How to Create a Basic Static Website Using Markdown With GitHub Pages
 
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## Introduction
 
-In this guide, you will learn how to create a simple static website using Markdown syntax and host it using GitHub Pages. Markdown is a lightweight markup language that makes it easy to format text without needing to write HTML.
+
+Hi there! 👋 I'm Suheda and I'm currently studying IT at OAMK.For one of my assignments, I was tasked with creating a public static website using __only Markdown__ for formatting, and hosting it on __GitHub Pages__.
+
+Markdown is a lightweight markup language that makes it easy to format text without needing to write HTML, which simplifies the entire process. As part of the assignment, I decided to write this guide to show you how you can do the same. Whether you’re a fellow student working on a similar task or just someone curious about building a simple website with Markdown, this tutorial will walk you through the entire process. By the end, you’ll have a working static website up and running! 🌐
+
+Let’s dive in and get started with your very own Markdown-powered website! 🚀
+
+If you'd like to see the end result of this guide, check out the live version of the website below:
+
+[![Live Website](https://img.shields.io/badge/Live%20Website-Up%20and%20Running-brightgreen)](https://suheda-snr.github.io/static-website-guide/)
 
 ---
 
@@ -126,6 +135,7 @@ Some content
     git remote add origin https://github.com/yourusername/my-markdown-site.git
     git push -u origin main
    ```
+
 ## Step 4: Enable GitHub Pages
 
 1. Go to your GitHub repository.
@@ -146,9 +156,6 @@ You’ve successfully created a basic static website using Markdown and hosted i
 > [!NOTE]
 > Check the  [Markdown Guide](https://www.markdownguide.org/) for more advanced syntax options!
 
-## Contact Information
-
-If you have any questions or feedback regarding this project, feel free to reach out to me:
 
 ## Contact Information
 
@@ -159,4 +166,5 @@ If you have any questions or feedback regarding this project, feel free to reach
 - **GitHub:** [![GitHub Profile](https://img.shields.io/badge/-suheda--snr-181717?style=flat&logo=github&logoColor=white)](https://github.com/suheda-snr)
 - **LinkedIn:** [![LinkedIn Profile](https://img.shields.io/badge/-SuhedaSener-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suheda-sener/)
 
-Thank you for your interest in my project!
+
+**Thank you for your interest in my project!** 😊✨
