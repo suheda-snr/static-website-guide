@@ -71,52 +71,51 @@ To enhance your Markdown editing experience, consider installing extensions for 
 
 Now that you have your file set up, start adding your content. Here’s a simple structure to follow:
 
-<details>
-<summary>Sample Content Structure</summary>
+#### Sample Content Structure
 
 ```markdown
-# Welcome to My Markdown Site
+    # Welcome to My Markdown Site
 
-This website is created using Markdown and hosted on GitHub Pages.
+    This website is created using Markdown and hosted on GitHub Pages.
 
-> [!TIP]
-> Use headings to organize your content and improve readability.
+    > [!TIP]
+    > Use headings to organize your content and improve readability.
 
-> [!NOTE]
-> To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the hierarchy level and typeface size of the heading.
+    > [!NOTE]
+    > To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the hierarchy level and typeface size of the heading.
 
-## Title 1
--Write your content here and style with markdown
+    ## Title 1
+    -Write your content here and style with markdown
 
-### Ordered List Example
-1. Nested List
-    - 
+    ### Ordered List Example
+
+    1. Nested List
+        - 
+        -
+    2. 
+    3. 
+    
+    ## Title 2 
+
+    ### Unordered List Example 
+    You can make an unordered list by preceding one or more lines of text with -, *, or +.
     -
-2. 
-3. 
+    *
+    +
 
-## Title 2 
+    ### Subtitle 1
+    Some content
 
-### Unordered List Example 
-You can make an unordered list by preceding one or more lines of text with -, *, or +.
--
-*
-+
+    ### Subtitle 2
+    Some content
 
-### Subtitle 1
-Some content
-
-### Subtitle 2
-Some content
-
-### Some extra examples for Markdown features
-- **Bold text**: Use `**double asterisks**` or `__double underscores__`.
-- **Italic text**: Use `*single asterisk*` or `_single underscore_`.
-- Alerts: To add an alert, use a special blockquote line specifying the alert type (TIP, NOTE, IMPORTANT, WARNING,CAUTION), followed by the alert information in a standard blockquote.
-> [!TIP]
-> your information
+    ### Some extra examples for Markdown features
+    - **Bold text**: Use `**double asterisks**` or `__double underscores__`.
+    - **Italic text**: Use `*single asterisk*` or `_single underscore_`.
+    - Alerts: To add an alert, use a special blockquote line specifying the alert type (TIP, NOTE, IMPORTANT, WARNING,CAUTION), followed by the alert information in a standard blockquote.
+        > [!TIP]
+        > your information
 ```
-</details>
 
 ## Step 3: Push Your Markdown File to GitHub
 
