@@ -1,10 +1,10 @@
-# How to Create a Basic Static Website Using Markdown
+# How to Create a Basic Static Website Using Markdown With GitHub Pages
 
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## Introduction
 
-In this guide, you will learn how to create a simple static website using Markdown syntax. Markdown is a lightweight markup language that makes it easy to format text without needing to write HTML. You can host this website using GitHub Pages.
+In this guide, you will learn how to create a simple static website using Markdown syntax and host it using GitHub Pages. Markdown is a lightweight markup language that makes it easy to format text without needing to write HTML.
 
 ---
 
