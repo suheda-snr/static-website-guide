@@ -38,12 +38,12 @@ mkdir myprojectfolder
 cd myprojectfolder
 ```
 
-Then, create your Markdown file:
-> [!TIP]
-> Name it with the .md extension, e.g., myfile.md, and add your content.
+Then, create your project file:
+> [!WARNING]
+> If you only have other Markdown files (like about.md), GitHub Pages won’t know which one to display as the homepage. Ensure that the root of your repository contains an index.md file.
 
 ```bash
-touch myfile.md
+touch index.md
 ```
 Alternatively, you can clone this repository if you want to start with a predefined structure:
 
